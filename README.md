@@ -22,7 +22,6 @@
 - [Business Recommendations](#-business-recommendations)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
 - [Results Summary](#-results-summary)
 
 ---
@@ -272,35 +271,6 @@ Data Handling   : Base R (read.csv, data.frame, factor conversion)
 
 ---
 
-## 🚀 How to Run
-
-### Prerequisites
-Make sure you have **R** installed (version 4.0 or higher recommended).
-
-### Step 1 — Clone the Repository
-```bash
-git clone https://github.com/yourusername/Bank-Customer-Churn-Analysis.git
-cd Bank-Customer-Churn-Analysis
-```
-
-### Step 2 — Install Required R Packages
-```r
-install.packages(c("RColorBrewer", "caret", "party"))
-```
-
-### Step 3 — Update the Dataset File Path
-Open `Bank_Customer_Churn_Analysis.R` and update line 22:
-```r
-# Replace this path with your local path to the CSV file
-ChurnData <- read.csv('Bank Customer Churn Prediction.csv', na.strings = c(""," ","NA","NULL"))
-```
-
-### Step 4 — Run the Script
-```r
-source("Bank_Customer_Churn_Analysis.R")
-```
-
-> The script will execute the full pipeline: data cleaning → EDA → statistical testing → feature selection → model building → evaluation.
 
 ---
 
@@ -325,11 +295,9 @@ source("Bank_Customer_Churn_Analysis.R")
 
 ## 🙋 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)  
+**Sweta Mehta**  
+  
 
 ---
 
-> ⭐ *If you found this project useful or insightful, consider giving it a star — it helps others discover it too!*
+
