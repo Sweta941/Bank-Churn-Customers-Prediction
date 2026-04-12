@@ -264,9 +264,9 @@ Data Handling   : Base R (read.csv, data.frame, factor conversion)
 
 ```
 📦 Bank-Customer-Churn-Analysis
- ┣ 📄 Bank_Customer_Churn_Analysis.R        # Main R analysis script
- ┣ 📄 Bank Customer Churn Prediction (PPT).pdf  # Project PPT
- ┗ 📄 README.md                             # Project documentation
+ ┣ 📄 Bank_Customer_Churn_Analysis.R             # Main R analysis script
+ ┣ 📄 Bank Customer Churn Prediction (PPT).pdf   # Project PPT
+ ┗ 📄 README.md                                  # Project documentation
 ```
 
 ---
