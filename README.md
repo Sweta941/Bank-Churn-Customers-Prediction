@@ -279,7 +279,7 @@ Data Handling   : Base R (read.csv, data.frame, factor conversion)
 ```
 
 ╔══════════════════════════════════════════════════════════╗
-║           BANK CUSTOMER CHURN ANALYSIS — RESULTS        ║
+║           BANK CUSTOMER CHURN ANALYSIS — RESULTS         ║
 ╠══════════════════════════════════════════════════════════╣
 ║  Dataset          : 10,000 customers | 11 features       ║
 ║  Churn Rate       : 20.4%                                ║
